@@ -1,0 +1,8 @@
+tours:
+  css: '#displaytimer'
+
+temperaturel:
+  css: '#temperatureLabel'
+
+temperatured:
+  css: "#temperatureId"
